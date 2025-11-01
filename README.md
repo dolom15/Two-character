@@ -1,1 +1,1 @@
-# Two-character
+# Two-character This C# program finds the longest possible string that can be formed by deleting characters so that only **two distinct characters remain and alternate** without repeating consecutively. It checks all possible character pairs and returns the maximum alternating string length found.
